@@ -1,0 +1,26 @@
+{
+  "name": "brsocket-example",
+  "version": "1.0.0",
+  "description": "BRSocket-Example",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "brsocket-angular2": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongrun/brsocket-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bongrun/brsocket-example/issues"
+  },
+  "homepage": "https://github.com/bongrun/brsocket-example#readme"
+}
